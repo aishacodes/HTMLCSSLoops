@@ -13,6 +13,24 @@ nav {
 main {
     flex-grow: 1;
     background-color: #7A9ACF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    background-color: white;
+    width: 70vw;
+    height: 50vh;
+    border-radius: 5px;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, .4);
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 footer {
