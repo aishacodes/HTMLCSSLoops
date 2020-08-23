@@ -1,0 +1,10 @@
+body {
+    background-image: url(../media/background.jpg);
+}
+
+.card {
+    height: 30vh;
+    width: 30%;
+    background-color: white;
+    margin: 20vh auto;
+}
